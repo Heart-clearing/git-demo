@@ -1,0 +1,320 @@
+<mxfile host="app.diagrams.net" modified="2023-04-05T06:51:11.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" version="21.1.4" etag="gE74oqpOmaWTB_noiIck" type="github">
+  <diagram name="第 1 页" id="pm7B6tCLe5vakq9gPy-s">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="管理员端平台" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="316" width="476" height="536" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="救助管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="647" y="43" width="111" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="普通管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="229" width="95" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="领养管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="647" y="126" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="送养管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="647" y="210" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="找丢管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="647" y="293" width="111" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="帖子管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="647" y="377" width="111" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="宠物秀管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="639" y="460" width="127" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="用户端平台" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry y="556" width="509" height="945" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="救助列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="599" width="79" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="普通游客" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="869" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="领养列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="683" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="送养列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="766" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="找丢列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="849" width="79" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="帖子列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="933" width="79" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="宠物秀列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1016" width="95" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="目标用户主页信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1100" width="144" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="搜索结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="372" y="1183" width="81" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="登录用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1039" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="发布宠物信息页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1266" width="144" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="发布帖子页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="357" y="1350" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="发布宠物秀页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349" y="1433" width="128" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="查看救助" style="curved=1;startArrow=none;endArrow=block;exitX=0.6038483440275165;exitY=-0.010605710925477924;entryX=9.657461431962025e-8;entryY=0.276466143318058;" edge="1" parent="1" source="12" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="597" />
+              <mxPoint x="316" y="597" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="查看领养" style="curved=1;startArrow=none;endArrow=block;exitX=0.6442242467368107;exitY=-0.010605710925477924;entryX=-0.004999923706054688;entryY=0.21470615023993864;" edge="1" parent="1" source="12" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="677" />
+              <mxPoint x="316" y="677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="查看送养" style="curved=1;startArrow=none;endArrow=block;exitX=0.7412070651790268;exitY=-0.010605710925477924;entryX=-0.004999923706054688;entryY=0.2268274085999055;" edge="1" parent="1" source="12" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="760" />
+              <mxPoint x="316" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="查看找丢" style="curved=1;startArrow=none;endArrow=block;exitX=0.9975000381469726;exitY=0.14845496849022077;entryX=9.657461431962025e-8;entryY=0.2417632007097595;" edge="1" parent="1" source="12" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="844" />
+              <mxPoint x="316" y="844" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28" value="查看帖子" style="curved=1;startArrow=none;endArrow=block;exitX=0.9975000381469726;exitY=0.8424548680187902;entryX=9.657461431962025e-8;entryY=0.22358142876669607;" edge="1" parent="1" source="12" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="927" />
+              <mxPoint x="316" y="927" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29" value="查看宠物秀" style="curved=1;startArrow=none;endArrow=block;exitX=0.7412070651790268;exitY=1.001515547434489;entryX=8.030941611842105e-8;entryY=0.17941222685992603;" edge="1" parent="1" source="12" target="17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1010" />
+              <mxPoint x="316" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30" value="查看目标用户主页信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.6442242467368107;exitY=1.001515547434489;entryX=-0.002777735392252604;entryY=-0.01045545963323534;" edge="1" parent="1" source="12" target="18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1094" />
+              <mxPoint x="316" y="1094" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31" value="搜索" style="curved=1;startArrow=none;endArrow=block;exitX=0.6026601816901465;exitY=1.001515547434489;entryX=0.0024692394115306713;entryY=0.22401313288516825;" edge="1" parent="1" source="12" target="19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1177" />
+              <mxPoint x="316" y="1177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32" value="查看救助" style="curved=1;startArrow=none;endArrow=block;exitX=0.5714871329051485;exitY=-0.007575280738599373;entryX=9.657461431962025e-8;entryY=0.7915707510669184;" edge="1" parent="1" source="20" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="638" />
+              <mxPoint x="316" y="638" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="查看领养" style="curved=1;startArrow=none;endArrow=block;exitX=0.589671411363064;exitY=-0.007575280738599373;entryX=-0.004999923706054688;entryY=0.7762035128737421;" edge="1" parent="1" source="20" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="722" />
+              <mxPoint x="316" y="722" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="查看送养" style="curved=1;startArrow=none;endArrow=block;exitX=0.6199785421262567;exitY=-0.007575280738599373;entryX=-0.004999923706054688;entryY=0.788324771233709;" edge="1" parent="1" source="20" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="805" />
+              <mxPoint x="316" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" value="查看找丢" style="curved=1;startArrow=none;endArrow=block;exitX=0.6805928036526417;exitY=-0.007575280738599373;entryX=9.657461431962025e-8;entryY=0.7976314958437887;" edge="1" parent="1" source="20" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="889" />
+              <mxPoint x="316" y="889" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" value="查看帖子" style="curved=1;startArrow=none;endArrow=block;exitX=0.8624355882317971;exitY=-0.007575280738599373;entryX=9.657461431962025e-8;entryY=0.7794497239007252;" edge="1" parent="1" source="20" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="972" />
+              <mxPoint x="316" y="972" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37" value="查看宠物秀" style="curved=1;startArrow=none;endArrow=block;exitX=0.9975000381469726;exitY=0.49848534844138404;entryX=8.030941611842105e-8;entryY=0.847861442527429;" edge="1" parent="1" source="20" target="17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="316" y="1055" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="查看目标用户主页信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.8624355882317971;exitY=1.0045459776213674;entryX=-0.002777735392252604;entryY=1.0013655851344634;" edge="1" parent="1" source="20" target="18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1139" />
+              <mxPoint x="316" y="1139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39" value="搜索" style="curved=1;startArrow=none;endArrow=block;exitX=0.6805928036526417;exitY=1.0045459776213674;entryX=0.0024692394115306713;entryY=0.7911395093359935;" edge="1" parent="1" source="20" target="19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1222" />
+              <mxPoint x="316" y="1222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" value="发布宠物信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.6319576455117991;exitY=1.0045459776213674;entryX=-0.002777735392252604;entryY=0.5196975794705477;" edge="1" parent="1" source="20" target="21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41" value="发布帖子" style="curved=1;startArrow=none;endArrow=block;exitX=0.5962472113610087;exitY=1.0045459776213674;entryX=-0.003571374075753348;entryY=0.5015158075274844;" edge="1" parent="1" source="20" target="22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="发布宠物秀" style="curved=1;startArrow=none;endArrow=block;exitX=0.5756356376019436;exitY=1.0045459776213674;entryX=-0.0031249523162841797;entryY=0.5136370658874512;" edge="1" parent="1" source="20" target="23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43" value="管理救助" style="curved=1;startArrow=none;endArrow=block;exitX=0.5830117802351789;exitY=-0.0015150850469415839;entryX=0.003603686083544482;entryY=0.25325433860169794;" edge="1" parent="1" source="4" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="40" />
+              <mxPoint x="574" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44" value="管理领养" style="curved=1;startArrow=none;endArrow=block;exitX=0.6361631557273151;exitY=-0.0015150850469415839;entryX=6.811959402901785e-8;entryY=0.22006252109125918;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="121" />
+              <mxPoint x="574" y="121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="45" value="管理送养" style="curved=1;startArrow=none;endArrow=block;exitX=0.9084893065631131;exitY=-0.0015150850469415839;entryX=6.811959402901785e-8;entryY=0.20188074914819573;" edge="1" parent="1" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="204" />
+              <mxPoint x="574" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" value="管理找丢" style="curved=1;startArrow=none;endArrow=block;exitX=0.9084893065631131;exitY=1.0106061733130254;entryX=0.003603686083544482;entryY=0.21612440692185106;" edge="1" parent="1" source="4" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="287" />
+              <mxPoint x="574" y="287" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47" value="管理帖子" style="curved=1;startArrow=none;endArrow=block;exitX=0.6361631557273151;exitY=1.0106061733130254;entryX=0.003603686083544482;entryY=0.1979426349787876;" edge="1" parent="1" source="4" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="371" />
+              <mxPoint x="574" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="48" value="管理宠物秀" style="curved=1;startArrow=none;endArrow=block;exitX=0.5816979255601555;exitY=1.0106061733130254;entryX=0.0031496783879798227;entryY=0.16761606699058842;" edge="1" parent="1" source="4" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="454" />
+              <mxPoint x="574" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49" value="点击" style="curved=1;startArrow=none;endArrow=block;exitX=1.0000000965746143;exitY=0.5136366034999038;entryX=0.003603686083544482;entryY=0.7990272527257727;" edge="1" parent="1" source="11" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="616" />
+              <mxPoint x="574" y="82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50" value="点击" style="curved=1;startArrow=none;endArrow=block;exitX=0.992500114440918;exitY=0.4954548315568404;entryX=6.811959402901785e-8;entryY=0.813270910499428;" edge="1" parent="1" source="13" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="699" />
+              <mxPoint x="574" y="166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="51" value="点击" style="curved=1;startArrow=none;endArrow=block;exitX=0.992500114440918;exitY=0.5075760899168072;entryX=6.811959402901785e-8;entryY=0.7950891385563645;" edge="1" parent="1" source="14" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="783" />
+              <mxPoint x="574" y="249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52" value="点击" style="curved=1;startArrow=none;endArrow=block;exitX=1.0000000965746143;exitY=0.519697348276774;entryX=0.003603686083544482;entryY=0.8050879975026429;" edge="1" parent="1" source="15" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="866" />
+              <mxPoint x="574" y="332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="53" value="点击" style="curved=1;startArrow=none;endArrow=block;exitX=1.0000000965746143;exitY=0.5015155763337107;entryX=0.003603686083544482;entryY=0.7869062255595795;" edge="1" parent="1" source="16" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="950" />
+              <mxPoint x="574" y="416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54" value="点击" style="curved=1;startArrow=none;endArrow=block;exitX=1.0000000803094162;exitY=0.5136368346936775;entryX=0.0031496783879798227;entryY=0.7920589507181338;" edge="1" parent="1" source="17" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="1033" />
+              <mxPoint x="574" y="496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
