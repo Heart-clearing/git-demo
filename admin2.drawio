@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" modified="2023-04-05T07:32:19.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" version="21.1.4" etag="-188k0DvMuNOvqOg9UsV" type="github">
+  <diagram name="第 1 页" id="dePCIm8TlvHJUc36089S">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="普通管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="209" width="95" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="用户列表页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="289" width="111" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="账号状态页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="289" y="83" width="111" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="启用账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="612" y="42" width="81" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="禁用账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="612" y="125" width="81" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="删除用户确认弹窗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="273" y="209" width="144" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="删除用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="612" y="209" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="举报列表页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="289" y="334" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="删除举报信息确认弹窗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="564" y="292" width="176" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="删除举报信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="856" y="292" width="113" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="驳回举报信息确认弹窗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="564" y="375" width="176" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="驳回举报信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="856" y="375" width="113" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="数据可视化页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="281" y="417" width="128" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="查看用户列表" style="curved=1;startArrow=none;endArrow=block;exitX=0.6150851981539716;exitY=-0.015151399554628315;entryX=0.0036036173502604165;entryY=0.5060606291799834;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="改变用户账号状态" style="curved=1;startArrow=none;endArrow=block;exitX=0.6918086635899526;exitY=-0.015151399554628315;entryX=0.0036036173502604165;entryY=0.5181818875399503;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="启用" style="curved=1;startArrow=none;endArrow=block;exitX=1.0036036173502605;exitY=0.03683789922349644;entryX=4.709502797067901e-8;entryY=0.4969697432084517;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="491" y="58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="禁用" style="curved=1;startArrow=none;endArrow=block;exitX=1.0036036173502605;exitY=0.9995258758564042;entryX=4.709502797067901e-8;entryY=0.5090910015684186;" edge="1" parent="1" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="491" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="删除用户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.4909092296253551;entryX=0;entryY=0.4909092296253551;" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="确认删除" style="curved=1;startArrow=none;endArrow=block;exitX=0.9986111323038737;exitY=0.4909092296253551;entryX=0.005000019073486328;entryY=0.4909092296253551;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="查看举报列表" style="curved=1;startArrow=none;endArrow=block;exitX=0.6918086635899526;exitY=0.9969698588053385;entryX=0;entryY=0.4939396020137902;" edge="1" parent="1" source="2" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="删除举报信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.9982143129621234;exitY=0.009126454601855447;entryX=0.0022727359424937854;entryY=0.503030487985322;" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="491" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="确认删除" style="curved=1;startArrow=none;endArrow=block;exitX=1.001136389645663;exitY=0.503030487985322;entryX=-0.0017698844977184734;entryY=0.503030487985322;" edge="1" parent="1" source="10" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="驳回举报信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.9982143129621234;exitY=0.9787527494257251;entryX=0.0022727359424937854;entryY=0.5151517463452888;" edge="1" parent="1" source="9" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="491" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="确认驳回" style="curved=1;startArrow=none;endArrow=block;exitX=1.001136389645663;exitY=0.5151517463452888;entryX=-0.0017698844977184734;entryY=0.5151517463452888;" edge="1" parent="1" source="12" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="26" value="可视化查看数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.6150851981539716;exitY=0.9969698588053385;entryX=0;entryY=0.5060608603737571;" edge="1" parent="1" source="2" target="14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="434" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
