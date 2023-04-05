@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-04-05T07:50:47.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" version="21.1.4" etag="93Nqwcg0YoP76Bw5naWz" type="github">
+  <diagram name="第 1 页" id="6sBp4lz5lspuwzBbs4yk">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="83" width="48" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="用户端平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="106" y="42" width="96" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="普通游客" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="267" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="登录用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="267" y="83" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="管理员端平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="98" y="167" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="普通管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="167" width="95" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9059052758237996;exitY=0.012121258359966856;entryX=-0.0020833412806193032;entryY=0.4969697432084517;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="73" y="58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8343625335482191;exitY=-0.009090885971531723;entryX=0.002500009536743164;entryY=0.5060606291799834;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8343625335482191;exitY=1.003030372388435;entryX=0.002500009536743164;entryY=0.5181818875399503;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7019109672715902;exitY=1.0242425167199336;entryX=-0.0017857210976736887;entryY=0.5000001155968868;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="73" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9964285918644497;exitY=0.5000001155968868;entryX=-0.004210502222964639;entryY=0.5000001155968868;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
